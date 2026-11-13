@@ -56,7 +56,7 @@ This room introduced the fundamentals of penetration testing, including:
 
 - `README.md` - Task overview and documentation.
 - `Task-1-Report.pdf` - Completed internship report.
-- `Screenshots/` - TryHackMe completion evidence.
+
 
 ## Key Takeaways
 
